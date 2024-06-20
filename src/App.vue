@@ -31,10 +31,7 @@ import Contact from './components/Contact.vue'
   display: flex
   flex-direction: column
   @font-face 
-    font-family: CodeNext
-    src: url('@/assets/CodeNext-Trial-Black')
-    h1
-      font-family: CodeNext
+    
     h3
       font-size: 200%
       color: white
