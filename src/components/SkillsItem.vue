@@ -104,5 +104,9 @@ export default {
 h2
     font-size: 2.3rem
 
+@media (orientation: portrait)
+    .tab  
+        flex-direction: column
+
 
 </style>

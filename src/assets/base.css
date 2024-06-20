@@ -1,4 +1,10 @@
 /* color palette from <https://github.com/vuejs/theme> */
+
+@font-face  {
+  
+  font-family: "CodeNext";
+  src: local('@/assets/CodeNext-Trial-Black.otf')
+}
 :root {
   --primary: #adef67;
   --vt-c-white: #ffffff;

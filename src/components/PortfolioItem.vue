@@ -85,6 +85,7 @@
                             <p>
                                 My Bachelor thesis. A realtime audiovisualizer that leverages the computing power of the GPU to render a fluid simulation, that reacts to live guitar input.
                             </p>
+                            <pdf src="Erstellung_einer_Software_zur_Audiovisualisierung_mittels_Echtzeit_Fl_ssigkeitssimulation.pdf"></pdf>
                         </section>
                         <section class="img">
                             <img src="@/assets/img/audioflux.png">
