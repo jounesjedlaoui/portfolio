@@ -85,7 +85,7 @@
                             <p>
                                 My Bachelor thesis. A realtime audiovisualizer that leverages the computing power of the GPU to render a fluid simulation, that reacts to live guitar input.
                             </p>
-                            <pdf src="Erstellung_einer_Software_zur_Audiovisualisierung_mittels_Echtzeit_Fl_ssigkeitssimulation.pdf"></pdf>
+                            <a href="@/../public/pdf/Erstellung_einer_Software_zur_Audiovisualisierung_mittels_Echtzeit_Fl_ssigkeitssimulation.pdf">Thesis</a>
                         </section>
                         <section class="img">
                             <img src="@/assets/img/audioflux.png">
@@ -96,7 +96,7 @@
 
             <b-carousel-item>
                 <div class="c-item">
-                    <h3><a href="jefrey776.github.io/rythmvibes/">Rhythmvibe</a ></h3>
+                    <h3><a href="https://jounesjedlaoui.github.io/rythmvibes/">Rhythmvibe</a ></h3>
                     <i>React / React Native / THREE.js</i>
                     <br>
                     <div class="content">

@@ -13,7 +13,7 @@
             </div>
             <div class="social-item">
                 <img src="@/assets/github.png">
-                <a href="https://github.com/Jefrey776">Github</a>
+                <a href="https://github.com/jounesjedlaoui">Github</a>
             </div>
             <div class="social-item">
                 <img src="@/assets/mail.png">
