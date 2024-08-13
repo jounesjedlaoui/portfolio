@@ -30,7 +30,6 @@ export default {
 </script>
 
 <style lang="sass" scoped>
-.skill-progress
     // margin-bottom: .7rem
     .j-progress
         display: flex
