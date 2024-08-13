@@ -51,4 +51,5 @@
     .start
         video
             top: 0
+            transform: scaleY(2.5)
 </style>
