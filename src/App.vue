@@ -7,7 +7,7 @@ import SkillsItem from './components/SkillsItem.vue';
 import PortfolioItem from './components/PortfolioItem.vue';
 import Contact from './components/Contact.vue'
 </script>
-
+ 
 <template>
   <HeaderItem />
   <div class="main">
