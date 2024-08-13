@@ -39,7 +39,6 @@ export default {
         height: 1rem
         background-color: white
         border-radius: 20px
-        .j-progress-bar
 @media (orientation: portrait) 
     .skills
         section
