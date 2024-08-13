@@ -17,7 +17,7 @@ import Contact from './components/Contact.vue'
     <SkillsItem />
     <PortfolioItem />
     <Contact />
-  </div>
+  </div>  
   <!-- <RouterView /> -->
 </template>
 
