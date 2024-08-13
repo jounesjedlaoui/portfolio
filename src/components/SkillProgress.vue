@@ -27,7 +27,7 @@ export default {
     },
     
 }
-</script>
+</script> 
 
 <style lang="sass" scoped>
     // margin-bottom: .7rem
